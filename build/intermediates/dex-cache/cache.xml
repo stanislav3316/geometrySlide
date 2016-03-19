@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stanislav/programs/gsgame/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="344310e5a6b2922a12a0793fd88b32ff68dfb9e8">
+        <dex dex="/home/stanislav/programs/gsgame/android/build/intermediates/pre-dexed/release/core-1.0_73b507f7f260493f865baca9a93fca154e2ea3d9.jar" />
+    </item>
+
+</items>
